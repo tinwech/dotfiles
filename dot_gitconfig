@@ -1,0 +1,7 @@
+[user]
+	name = tinwech
+	email = tinwech91@gmail.com
+[core]
+	editor = vim
+[include]
+	path = ~/.gitalias
